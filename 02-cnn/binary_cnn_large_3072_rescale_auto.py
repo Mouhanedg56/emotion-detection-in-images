@@ -1,4 +1,4 @@
-# Students: D. Wen, A. Romriell, J. Pollard
+# D. Wen, A. Romriell, J. Pollard
 
 
 import time
